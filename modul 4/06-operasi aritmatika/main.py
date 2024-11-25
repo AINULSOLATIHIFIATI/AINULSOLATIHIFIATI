@@ -39,11 +39,11 @@ hasil = a % b
 print(a,"%" ,  b, "=" , hasil)
 
 # prioritas perhitungan (operasi)
-""""""
-1. ()
-2. 
-3. 
-""""""
+"""
+   1. ()
+   2. perkalian, pembagian, dll * / ** % //
+   3. penjumlahan dan pengurangan + -
+"""
 
 x = 3
 y = 4
@@ -57,6 +57,6 @@ print(z, "+" , y, "*" , z, "=" , hasil)
 hasil = (x + y) * z
 print("(,x,'+',y)" , "*", z, "=, hasil")
 
-""""""
+"""
 
-""""""
+"""
